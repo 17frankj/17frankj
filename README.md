@@ -3,7 +3,9 @@ I’m Joshua Frank
   - Former U.S Army Infantryman 
   
 I’m interested in java, C++, python, Any Object Orianted Language Really, and unreal engine 5
-- I’m currently learning java, python, C, and C++ at the University of Pittsburgh
+- I’m currently learning
+  - java, python, C, C++, and Unity at the University of Pittsburgh
+  - Unreal Engine 5 via Udemy from Ben Tristem, GameDev.tv (The current online course used by Halo Studios)
 
 How to reach me
   - 17joshuafrank@gmail.com
