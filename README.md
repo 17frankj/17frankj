@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @17frankj
-- 👀 I’m interested in java, c++, python, and unreal engine
-- 🌱 I’m currently learning java and python
-- 💞️ I’m looking to collaborate on unreal engine projects 
-- 📫 How to reach me my email is best, 17joshuafrank@gmail.com
+I’m Joshua Frank
+  - An Aspiring SoftWare Developer
+  
+I’m interested in java, C++, python, Any Object Orianted Language Really, and unreal engine 5
+- I’m currently learning java, python, C, and C++ at the University of Pittsburgh
+
+How to reach me
+  - 17joshuafrank@gmail.com
+  - JOF91@pitt.edu
 
 <!---
 17frankj/17frankj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
