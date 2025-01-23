@@ -2,7 +2,7 @@
   - An Aspiring Software Developer
   - Former U.S Army Infantryman
 
-![alt text]()
+![alt text](https://github.com/17frankj/17frankj/blob/main/FullSizeRender%202025-01-23%2022_30_09.HEIC)
 # Degrees
   - Bachelors Degree via University of Pittsburgh
     - Digital Narrative and Interactive Design (fall 2022 - spring 2025)
