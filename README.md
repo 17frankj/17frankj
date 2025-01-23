@@ -17,7 +17,9 @@
   - Minor via University of Pittsburgh (fall 2022 - spring 2025)
     - Computer Science
         - Focuses entirely on the technical side of computers both the theoretical and implementation sides of computing.
-  
+
+![DataFrame Output]()
+
 # Interests
 - Any Object Orianted Language
 - Unreal Engine 5
