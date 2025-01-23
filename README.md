@@ -2,7 +2,7 @@
   - An up and coming Software Developer
   - Former U.S Army Infantryman
 
-<img src="https://github.com/17frankj/17frankj/blob/main/cute_photo.jpeg" alt="alt text" width="300"/>
+<img src="https://github.com/17frankj/17frankj/blob/main/cute_photo.jpg" alt="alt text" width="300"/>
 ^^ Me and my loving Fiance Caroline!
 
 # Degrees
@@ -23,8 +23,11 @@
 # Interests
 - Any Object Orianted Language
 - Unreal Engine 5
-<img src="https://github.com/17frankj/17frankj/blob/main/cute_photo.jpeg" alt="alt text" width="100"/>
+
+  <img src="https://github.com/17frankj/17frankj/blob/main/unreal.jpg" alt="alt text" width="200"/>
 - Unity
+
+  <img src="https://github.com/17frankj/17frankj/blob/main/unreal.jpg" alt="alt text" width="200"/>
 
 # Currently Learning
   - java, python, C, C#, and Unity at the University of Pittsburgh.
