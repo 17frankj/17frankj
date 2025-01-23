@@ -18,7 +18,7 @@
     - Computer Science
         - Focuses entirely on the technical side of computers both the theoretical and implementation sides of computing.
 
-![DataFrame Output]()
+![DataFrame Output](https://github.com/17frankj/17frankj/blob/main/fun_graphs.py)
 
 # Interests
 - Any Object Orianted Language
