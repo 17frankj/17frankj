@@ -27,7 +27,7 @@
   <img src="https://github.com/17frankj/17frankj/blob/main/unreal.jpg" alt="alt text" width="200"/>
 - Unity
 
-  <img src="https://github.com/17frankj/17frankj/blob/main/unreal.jpg" alt="alt text" width="200"/>
+  <img src="https://github.com/17frankj/17frankj/blob/main/Unity-Emblem.png" alt="alt text" width="200"/>
 
 # Currently Learning
   - java, python, C, C#, and Unity at the University of Pittsburgh.
