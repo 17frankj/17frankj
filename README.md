@@ -1,8 +1,9 @@
 # I’m Joshua Frank
-  - An Aspiring Software Developer
+  - An up and coming Software Developer
   - Former U.S Army Infantryman
 
 <img src="https://github.com/17frankj/17frankj/blob/main/cute_photo.jpeg" alt="alt text" width="300"/>
+^^ Me and my loving Fiance Caroline!
 
 # Degrees
   - Bachelors Degree via University of Pittsburgh
@@ -29,7 +30,8 @@
 # In the hunt for
   - Software Developer Role
       - Begining post april 2025
-
+  - Unity Projects!
+      - Game development is my passion
 
 # How to reach me
   - 17joshuafrank@gmail.com
