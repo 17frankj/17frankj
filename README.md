@@ -35,9 +35,11 @@
 
 # In the hunt for
   - Software Developer Role
-      - Begining post april 2025
+      - Begining post april 2026
   - Unity Projects!
       - Game development is my passion
+          - Three Games Complete
+          - https://17frankj.itch.io
 
 # How to reach me
   - 17joshuafrank@gmail.com
