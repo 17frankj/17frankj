@@ -6,16 +6,15 @@
 ^^ Me and my loving Fiance Caroline!
 
 # Degrees
-  - Bachelors Degree via University of Pittsburgh
-    - Digital Narrative and Interactive Design (fall 2022 - spring 2026)
+  - Bachelors Degree(s) via University of Pittsburgh (fall 2022 - spring 2026)
+    - Digital Narrative and Interactive Design (New Degree at Pitt!)
       - An all encompising degree focused on applying narratives into interactive digital media.
          - This includes the study of Human Computer interactions.
               - How do people interact with technology and why.
       - In depth design work
         - implementing and designing interfaces that suit end user needs.
 
-  - Bachelors Degree via University of Pittsburgh (fall 2022 - spring 2026)
-    - Computer Science
+    - Computer Science (Old reliable)
         - Focuses entirely on the technical side of computers both the theoretical and implementation sides of computing.
         - Learn software fundamentals and refine my skills in programming
 
