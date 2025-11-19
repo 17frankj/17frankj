@@ -8,15 +8,17 @@
 # Degrees
   - Bachelors Degree(s) via University of Pittsburgh (fall 2022 - spring 2026)
     - Digital Narrative and Interactive Design (New Degree at Pitt!)
-      - An all encompising degree focused on applying narratives into interactive digital media.
+      - An all encompassing degree focused on applying narratives into interactive digital media.
          - This includes the study of Human Computer interactions.
               - How do people interact with technology and why.
+          - I chose to focus on the Video Game Development Track!
+              - This involed multiple classes on not only implementation of Games in Unity but also the theory behind Game Design.
       - In depth design work
         - implementing and designing interfaces that suit end user needs.
 
     - Computer Science (Old reliable)
         - Focuses entirely on the technical side of computers both the theoretical and implementation sides of computing.
-        - Learn software fundamentals and refine my skills in programming
+        - Learn software fundamentals and refine my skills in programming.
 
 ![DataFrame Output](https://github.com/17frankj/17frankj/blob/main/graph_stuff/output.png)
 
